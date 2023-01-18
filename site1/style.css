@@ -1,0 +1,197 @@
+html
+{
+	background: #fff;
+	font-family: 'Open Sans', sans-serif;
+	letter-spacing: 1px;
+	cursor: default;
+}
+.header
+{
+	margin: auto;
+	align: center;
+	width: 360px;
+	padding: 15px;
+	text-align: center;
+	font-size: 24px;
+	background: #a7a9b0;
+	border-radius: 50px;
+}
+.logo
+{
+	width: 60px;
+	float: left;
+	padding: 15px;
+}
+.title
+{
+	width: 300px;
+	padding: 30px;
+	font-weight: 500;
+}
+.dsc
+{
+	max-width: 250px;
+	padding: 30px;
+	background: #7289da;
+	text-align: center;
+	color: #fff;
+	border-radius: 20px;
+	font-size: 18px;
+	align: right;
+	margin: right;
+}
+.parttitle
+{
+	margin: auto;
+	padding-top: 15vh;
+	padding-bottom: 3vh;
+	font-size: 20px;
+	font-weight: 400;
+	max-width: 175px;
+	clear: both;
+}
+.content
+{
+	margin: auto;
+	padding: 50px;
+	min-height: 250px;
+	align: center;
+	width: 800px;
+	text-align: center;
+	letter-spacing: 0.5px;
+	background: #a7a9b0;
+	border-radius: 50px;
+	margin-bottom: 5vh;
+}
+.footer
+{
+	width: 100% !important;
+	min-height: 200px;
+	background: #404040;
+	padding: 5px;
+	padding-bottom: 20px;
+	float: left;
+}
+.foot1
+{
+	max-width: 250px;
+	float: left;
+	padding-right: 10vh;
+	
+}
+.foot2
+{
+	max-width: 250px;
+	padding-right: 10vh;
+	clear: both;
+}
+
+
+#d
+{
+	font-weight: 400;
+	color: #62646e;
+}
+#footd
+{
+	color: #fff;
+	font-weight: 600;
+	font-size: 14px;
+	padding: 15px;
+	text-decoration: none;
+}
+#foot1
+{
+	color: #fff;
+	font-weight: 400;
+	font-size: 12px;
+	padding-left: 45px;
+	text-decoration: none;
+	cursor: pointer;
+	max-height: 200px;
+}
+#foot2
+{
+	color: #fff;
+	font-weight: 400;
+	font-size: 12px;
+	padding-left: 15px;
+	text-decoration: none;
+	cursor: deafult;
+	max-height: 200px;
+}
+#sp:hover
+{
+	color: #1db954;
+}
+#yt:hover
+{
+	color: #ff0000;
+}
+#tt:hover
+{
+	color: #00f2ea;
+}
+#ig:hover
+{
+	color: #fbad60;
+}
+#fb:hover
+{
+	color: #4267b2;
+}
+#sp1:hover
+{
+	color: #1db954;
+}
+#yt1:hover
+{
+	color: #ff0000;
+}
+#tt1:hover
+{
+	color: #00f2ea;
+}
+#ig1:hover
+{
+	color: #fbad60;
+}
+#fb1:hover
+{
+	color: #4267b2;
+}#sp1
+{
+	color: #000;
+}
+#yt1
+{
+	color: #000;
+}
+#tt1
+{
+	color: #000;
+}
+#ig1
+{
+	color: #000;
+}
+#fb1
+{
+	color: #000;
+}
+#h
+{
+	color: #000;
+	font-weight: 500;
+	font-size: 18px;
+}
+
+ul
+{
+	width: 50px;
+}
+a
+{
+	color: #fff;
+	text-decoration: none;
+}
